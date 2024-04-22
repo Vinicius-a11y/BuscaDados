@@ -6,7 +6,31 @@
     color: #333;
   }
 
+html {
+    background: linear-gradient(180deg, rgba(234,2,255,1) 0%, #0097ff 100%);
+  }
+
 header {
     padding: 10px;
+}
+
+section {
+  padding: 10px;
+}
+
+.content {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh; 
+  margin: 0; 
+}
+
+.form_box {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh; 
+  margin: 0; 
 }
 
